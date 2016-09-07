@@ -1,6 +1,6 @@
 # syahmifauzi-v1.0
-My Personal Website Version 1.0
+[Code-My-Website](http://www.syahmifauzi.com/syahmifauzi-v1.0) v1.0
 
-This website is build on Jekyll and GulpJS and this is the uncompiled source code..
+This website was build on [Jekyll](https://jekyllrb.com/) and [GulpJS](http://gulpjs.com/)..
 
 All of the source code is open and can be found on this repository..
