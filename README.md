@@ -1,5 +1,5 @@
 # SFv1
-[Code-My-Website](http://www.syahmifauzi.com/syahmifauzi-v1.0) v1.0
+[Code-My-Website](http://www.syahmifauzi.com/sfv1) v1.0
 
 This website was build on [Jekyll](https://jekyllrb.com/) and [GulpJS](http://gulpjs.com/)..
 
