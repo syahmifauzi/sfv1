@@ -7,7 +7,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "README.md", "offline.t
 # github_username: syahmifauzi
 
 permalink: /:categories/:year/:month/:day/:title/ # just pretty
-baseurl: "/syahmifauzi-v1.0" # the subpath of your site, e.g. /blog
+baseurl: "/sfv1" # the subpath of your site, e.g. /blog
 url: "http://www.syahmifauzi.com" # the base hostname & protocol for your site
 # production: true
 
