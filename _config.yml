@@ -8,7 +8,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "README.md", "offline.t
 
 permalink: /:categories/:year/:month/:day/:title/ # just pretty
 baseurl: "/sfv1" # the subpath of your site, e.g. /blog
-url: "http://www.syahmifauzi.com" # the base hostname & protocol for your site
+url: "https://www.syahmifauzi.com" # the base hostname & protocol for your site
 # production: true
 
 # For Development,
